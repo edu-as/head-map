@@ -11,7 +11,6 @@ body {
 }
 
 body,input, button, textarea {
-font:600 18px Poppins sans-serif
-
-color: #333;
+    font:600 18px Poppins sans-serif
+    color: #333;
 }
