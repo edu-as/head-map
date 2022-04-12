@@ -11,8 +11,5 @@ body {
 }
 
 body,input, button, textarea {
-font-family: 'Roboto', sans-serif;
-font-size: 16px;
-line-height: 1.5;
-    color: #333;
+    font:600 18px Poppins sans-serif
 }
